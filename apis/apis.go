@@ -3,8 +3,8 @@ package apis
 import (
 	"encoding/json"
 	"fmt"
-	"http-test/bootstraps/repository"
 	"http-test/config"
+	"http-test/database/repository"
 	"http-test/models"
 	"net/http"
 
